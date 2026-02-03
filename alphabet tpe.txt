@@ -9,3 +9,7 @@ as
 d
 asd
 asdasd
+
+
+THIS SHOULD NOT BE THERE FOR : git diff --staged (difference last commit staging area)
+ BUT SHOULD BE THERE FOR: git diff (difference staging area vs working Directory)
