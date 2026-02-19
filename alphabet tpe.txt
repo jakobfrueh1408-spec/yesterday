@@ -1,15 +1,8 @@
 cyrillic
-latinsadasd
-d
-
-asd
-asd
-as
-as
-d
-asd
-asdasd
+latin
 
 
 THIS SHOULD NOT BE THERE FOR : git diff --staged (difference last commit staging area)
  BUT SHOULD BE THERE FOR: git diff (difference staging area vs working Directory)
+
+NEW CHANGEs
